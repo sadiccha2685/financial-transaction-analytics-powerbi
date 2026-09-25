@@ -34,12 +34,12 @@
 View the recorded `.mp4` video uploaded to this repository to see cross-filtering, slicer selection (Year, Dynamic Metric, Occupation, Category), and page navigation between *Overview Analysis* and *Transactions*[cite: 4, 5].
 
 ### 2. Run Interactively
-1. Download the [.pbix source file](./FinSight_Finance_Analysis.pbix).
+1. Download the [.pbix source file](./FinSight.pbix)
 2. Open the file locally using [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (Free).
 
 ---
 
 ## 👤 Author
 **Sadicccha Patil**  
-* **LinkedIn:** [Insert Your LinkedIn Link]  
+* **LinkedIn:** 
 * **GitHub:** [Insert Your GitHub Profile Link]
