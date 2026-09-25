@@ -41,5 +41,5 @@ View the recorded `.mp4` video uploaded to this repository to see cross-filterin
 
 ## 👤 Author
 **Sadicccha Patil**  
-* **LinkedIn:** 
-* **GitHub:** [Insert Your GitHub Profile Link]
+* **LinkedIn:** https://www.linkedin.com/in/sadiccha-patil-234a04330/
+* **GitHub:** https://github.com/sadiccha2685
